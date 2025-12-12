@@ -7,7 +7,7 @@ def multiply(a, b):
 
 
 def main():
-    print("Hello, World!")
+    print("Hello from feature-2")
     print("2 + 3 =", add(2, 3))
     print("2 * 3 =", multiply(2, 3))
 
