@@ -3,7 +3,7 @@ def add(a, b):
 
 
 def main():
-    print("Hello, World!")
+    print("Hello, (hotfix) World!")
     print("2 + 3 =", add(2, 3))
 
 
